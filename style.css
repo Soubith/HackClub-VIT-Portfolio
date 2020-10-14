@@ -4,7 +4,8 @@ body {
 }
 body,
 input {
-  font-family: "Montserrat";
+  font-family: 'Crimson Pro', serif;
+  color:saddlebrown;
 }
 #intro {
   position: relative;
