@@ -32,10 +32,10 @@ input {
   min-height: 100%;
 }
 #intro img.photo{
-  position: absolute;
+  position: relative;
   max-width: 50%;
   min-width: 50px;
-  min-height: 100%;
+  min-height: 10%;
 }
 #intro .content {
   text-align: center;
