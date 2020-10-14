@@ -20,7 +20,7 @@ input {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.25);
   z-index: 2;
 }
 #intro img {
@@ -34,8 +34,8 @@ input {
 #intro img.photo{
   position: absolute;
   max-width: 50%;
-  min-width: 5px;
-  min-height: 20%;
+  min-width: 50px;
+  min-height: 100%;
 }
 #intro .content {
   text-align: center;
